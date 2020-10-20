@@ -1,0 +1,3 @@
+app:
+  min-val: 1
+  max-val: 10
